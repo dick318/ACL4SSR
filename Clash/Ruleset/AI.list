@@ -1,5 +1,5 @@
 # 内容：内容：AI平台-国外
-# 数量：47条
+# 数量：87条
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,openai
@@ -40,6 +40,8 @@ DOMAIN-SUFFIX,jetbrains.ai
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
@@ -47,6 +49,38 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,api.openai.azure.com
+DOMAIN-SUFFIX,claude2.ai
+DOMAIN-SUFFIX,claude3.ai
+DOMAIN-SUFFIX,anthropicusercontent.com
+DOMAIN-SUFFIX,claudecode.ai
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,skype.ai.microsoft.com
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,openai.azure.com
+DOMAIN-SUFFIX,dev.azure.com
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net
+DOMAIN-SUFFIX,poeusercontent.com
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.space
+DOMAIN-SUFFIX,api-inference.huggingface.co
+DOMAIN-SUFFIX,replicate.com
+DOMAIN-SUFFIX,stability.ai
+DOMAIN-SUFFIX,dreamstudio.ai
+DOMAIN-SUFFIX,character.ai
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN-SUFFIX,leonardo.ai
+DOMAIN-SUFFIX,playgroundai.com
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,jasper.ai
+DOMAIN-SUFFIX,writesonic.com
+DOMAIN-SUFFIX,ai21.com
+DOMAIN-SUFFIX,cohere.ai
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,openrouterr.com
 DOMAIN-SUFFIX,antigravity-unleash.goog
 DOMAIN-SUFFIX,sandbox.googleapis.com
 DOMAIN-SUFFIX,googleapis.com
